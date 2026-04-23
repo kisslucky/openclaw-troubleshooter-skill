@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw Troubleshooter"
+  short_description: "Diagnose and repair OpenClaw gateway, models, proxy, and routing"
+  default_prompt: "Use $openclaw-troubleshooter to diagnose my OpenClaw setup, repair safe issues, and explain any risky changes before applying them."
